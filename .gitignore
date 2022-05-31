@@ -1,0 +1,3 @@
+# o git vai ignorar esses diretórios 
+obj
+bin
